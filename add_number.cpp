@@ -9,3 +9,6 @@ int main() {
     cout << "The sum is: " << sum << endl;
     return 0;
 }
+
+
+print("hello world");
